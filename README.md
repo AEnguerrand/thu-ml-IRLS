@@ -1,5 +1,5 @@
 # th-ml-IRLS
-Machine learning IRLS for Logistic Regression
+Machine learning IRLS for Logistic Regression :chart_with_upwards_trend:
 
 ## Datasets
 - a9a/a9a: __Training dataset__
@@ -15,4 +15,6 @@ python3 irls.py
 ````
 
 ## Results
-Results is print and somes figures is put inside _figures_ directory.
+:bar_chart: 85.01 % (accuracy on test dataset)
+
+All results is print and somes figures is put inside _figures_ directory.

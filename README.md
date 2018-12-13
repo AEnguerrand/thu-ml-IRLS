@@ -1,4 +1,4 @@
-# th-ml-IRLS
+# thu-ml-IRLS
 Machine learning IRLS for Logistic Regression :chart_with_upwards_trend:
 
 ## Datasets
